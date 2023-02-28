@@ -1,7 +1,5 @@
 # react-pokedex
 
-**React-pokedex**
-
 React app using PokeApi (Typescript) for displaying and search for pokemons of the first generation.
 
 Using :
